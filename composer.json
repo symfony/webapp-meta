@@ -1,0 +1,6 @@
+{
+    "name": "symfony/webapp-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A meta package for the web app pack"
+}
